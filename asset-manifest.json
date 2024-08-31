@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fariscoders/static/css/main.f855e6bc.css",
-    "main.js": "/fariscoders/static/js/main.7c5fae57.js",
+    "main.js": "/fariscoders/static/js/main.b6ffc680.js",
     "static/js/453.e009c259.chunk.js": "/fariscoders/static/js/453.e009c259.chunk.js",
     "static/media/logo.svg": "/fariscoders/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fariscoders/index.html",
     "main.f855e6bc.css.map": "/fariscoders/static/css/main.f855e6bc.css.map",
-    "main.7c5fae57.js.map": "/fariscoders/static/js/main.7c5fae57.js.map",
+    "main.b6ffc680.js.map": "/fariscoders/static/js/main.b6ffc680.js.map",
     "453.e009c259.chunk.js.map": "/fariscoders/static/js/453.e009c259.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.7c5fae57.js"
+    "static/js/main.b6ffc680.js"
   ]
 }
